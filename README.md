@@ -1,10 +1,10 @@
 
 - 👋 Hi, I’m @Su1im
 - 👀 I’m interested in development, datascience
-- 🌱 I’m currently learning Backend-development, English 🇬🇧 and France🇫🇷
+- 🌱 I’m currently learning Python-development, English 🇬🇧 and France🇫🇷
 - 💞️ I’m looking to collaborate on IT sphere
 - 📫 How to reach me Tg: @densergch
-- ⚡ Fun fact: 10 + 10 equal 11 + 11, because it's twenty TOO;
+- ⚡ What do you call a fake noodle? An impasta);
 
 - Look it my LeetCode progress
 ![](https://leetcard.jacoblin.cool/Su1im?border=0&radius=20)
