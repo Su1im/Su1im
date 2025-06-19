@@ -17,6 +17,7 @@ Tech Support/Data Analyst
 ### Немного обо мне <div id="header" align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxxMWhpZDJ2dWZxaXp0bzVwMWVwM3drazBwYmJwbHlueGx6N3V4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="150"/>
 </div>
+
 * 🌍  Базируюсь в Йошкар-Оле/Казани
 * ✉️  Со мной можно связаться <a href="https://t.me/densergch" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
