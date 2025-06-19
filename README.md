@@ -15,7 +15,7 @@ Tech Support/Data Analyst
 📍Цель — развиваться в ML-инженерии через практику, обучение и реальные задачи.
 
 ### Немного обо мне <div id="header" align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxxMWhpZDJ2dWZxaXp0bzVwMWVwM3drazBwYmJwbHlueGx6N3V4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="150"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxxMWhpZDJ2dWZxaXp0bzVwMWVwM3drazBwYmJwbHlueGx6N3V4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="250"/>
 </div>
 
 * 🌍  Базируюсь в Йошкар-Оле/Казани
