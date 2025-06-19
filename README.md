@@ -13,7 +13,8 @@ Tech Support/Data Analyst
 📍Цель — развиваться в ML-инженерии через практику, обучение и реальные задачи.
 
 * 🌍  Базируюсь в Йошкар-Оле/Казани
-* ✉️  Со мной можно связаться [Telegram Badge] (https://ing.shields.io/badge/-densergch-blue?style=flat&logo=Telegram&logoColor-white)](https://t.me/densergch)
+* ✉️  Со мной можно связаться <a href="https://t.me/densergch" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 * 🧠  В данный момент я изучаю Введение в scikit-learn: архитектура, fit/predict
 * 🤝  Я готов поучаствовать в любом интересном проекте
 * ⚡  Хожу в зал и люблю экстимальные виды спорта
